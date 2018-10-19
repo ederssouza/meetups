@@ -4,7 +4,7 @@
 
 ### Imutabilidade em JavaScript - Fernando Daciuk
 
-- [Link YouTube](https://www.youtube.com/watch?v=_NdkrfKJh7g&t=922s)
+- [Link YouTube](https://www.youtube.com/watch?v=_NdkrfKJh7g)
 - [Anotações](imutabilidade-em-javascript/README.md)
 - [Códigos de exemplo](imutabilidade-em-javascript)
 
